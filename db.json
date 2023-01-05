@@ -7,7 +7,8 @@
       "type": "Manual",
       "kms": 10000,
       "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "Price": 500000,
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/106257/venue-exterior-right-front-three-quarter-2.jpeg?isig=0&q=75"
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "year": 2017,
       "kms": 8000,
       "Description": "Tata Nexon with all original documents",
-      "Price": 800000
+      "Price": 800000,
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-15.jpeg?isig=0&q=75"
     }
   ],
   "wishlisted_cars": [
@@ -27,7 +29,8 @@
       "type": "Manual",
       "kms": 10000,
       "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "Price": 500000,
+      "image": ""
     }
   ]
 }
