@@ -32,5 +32,22 @@
       "Price": 500000,
       "image": ""
     }
+  ],
+  "user-signup": [
+    {
+      "id": 1,
+      "email": "gsankar164@gmail.com",
+      "user-name": "Sankarshan",
+      "password": "1234",
+      "c-password": "1234"
+    }
+  ],
+  "user-login": [
+    {
+      "id": 1,
+      "user-name": "Sankarshan",
+      "password": "1234",
+      "task-data": []
+    }
   ]
 }
